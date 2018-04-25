@@ -4,3 +4,4 @@ languages:
   - a language
 resources: 
   - 0
+parent_template: git@github.com:learn-co-curriculum/strong-params-basics.git
